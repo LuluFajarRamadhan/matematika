@@ -1018,7 +1018,7 @@ Kemampuan membedakan keduanya sangat penting karena pada materi peluang berikutn
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/03 - Permutasi]]
-- [[Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
-- [[Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
-- [[Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/03 - Permutasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]

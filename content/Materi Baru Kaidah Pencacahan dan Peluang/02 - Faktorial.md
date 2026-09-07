@@ -904,6 +904,6 @@ Konsep ini menjadi dasar untuk mempelajari **permutasi** dan **kombinasi**.
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/01 - Konsep Dasar Pencacahan]]
-- [[Kaidah Pencacahan dan Peluang/03 - Permutasi]]
-- [[Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/01 - Konsep Dasar Pencacahan]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/03 - Permutasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/04 - Kombinasi]]

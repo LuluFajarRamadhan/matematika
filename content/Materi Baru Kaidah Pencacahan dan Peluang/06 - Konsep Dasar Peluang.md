@@ -1191,8 +1191,8 @@ Kaidah pencacahan dapat digunakan untuk menentukan $n(S)$ maupun $n(A)$ jika ban
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
-- [[Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
-- [[Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
-- [[Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
-- [[Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]

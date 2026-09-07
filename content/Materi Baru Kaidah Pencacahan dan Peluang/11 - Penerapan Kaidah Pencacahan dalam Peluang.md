@@ -1606,9 +1606,9 @@ Dengan demikian, kemampuan menentukan metode pencacahan yang tepat merupakan bag
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/03 - Permutasi]]
-- [[Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
-- [[Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
-- [[Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
-- [[Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
-- [[Kaidah Pencacahan dan Peluang/12 - Latihan Terpadu Kaidah Pencacahan dan Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/03 - Permutasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/12 - Latihan Terpadu Kaidah Pencacahan dan Peluang]]

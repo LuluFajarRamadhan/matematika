@@ -1103,7 +1103,7 @@ Jika terdapat syarat atau pembatasan, banyak pilihan pada setiap tahap harus dih
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kombinatorika dan Teori Peluang Lanjutan]]
-- [[Kaidah Pencacahan dan Peluang/02 - Faktorial]]
-- [[Kaidah Pencacahan dan Peluang/03 - Permutasi]]
-- [[Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kaidah Pencacahan dan Teori Peluang Lanjutan]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/02 - Faktorial]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/03 - Permutasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/04 - Kombinasi]]

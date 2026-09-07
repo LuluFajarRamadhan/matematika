@@ -20,7 +20,7 @@ Halo! Saya adalah seorang pengajar Matematika. Di sini saya mendokumentasikan be
 
 ---
 ### Kelas XII
-* [[Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kombinatorika dan Teori Peluang Lanjutan|Kombinatorika dan Teori Peluang Lanjutan]]
+* [[Materi Baru Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kaidah Pencacahan dan Teori Peluang Lanjutan|Kombinatorika dan Teori Peluang Lanjutan]]
 * [[Limit/00 - Peta Konsep Limit|Limit]]
 
 ---

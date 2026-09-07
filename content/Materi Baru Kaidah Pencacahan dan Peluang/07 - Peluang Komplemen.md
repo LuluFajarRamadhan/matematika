@@ -1154,8 +1154,8 @@ Namun, komplemen tidak harus selalu digunakan. Pilih cara yang membuat perhitung
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
-- [[Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
-- [[Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
-- [[Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
-- [[Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]

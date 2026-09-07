@@ -1294,7 +1294,7 @@ Kemampuan membedakan ketiga situasi tersebut sangat penting sebelum masuk ke pen
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
-- [[Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
-- [[Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
-- [[Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]

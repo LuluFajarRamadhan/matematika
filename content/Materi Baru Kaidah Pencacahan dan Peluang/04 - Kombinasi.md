@@ -1244,7 +1244,7 @@ $$
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/02 - Faktorial]]
-- [[Kaidah Pencacahan dan Peluang/03 - Permutasi]]
-- [[Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
-- [[Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/02 - Faktorial]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/03 - Permutasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]

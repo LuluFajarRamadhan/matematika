@@ -1403,7 +1403,7 @@ Konsep ini menjadi dasar penting untuk memahami apakah dua kejadian **saling beb
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
-- [[Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
-- [[Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
-- [[Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]

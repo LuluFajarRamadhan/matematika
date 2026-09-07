@@ -56,6 +56,6 @@ Dalam sebuah seleksi wawancara kerja, peluang seorang kandidat lulus tes kompete
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kombinatorika dan Teori Peluang Lanjutan]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kaidah Pencacahan dan Teori Peluang Lanjutan]]
 - [[Kombinatorika dan Teori Peluang Lanjutan/04 - Teori Kombinasi dan Ekspansi Binomial Newton]]
 - [[Kaidah Pencacahan dan Peluang/11 - Peluang Bersyarat dan Pengantar Teorema Bayes]]

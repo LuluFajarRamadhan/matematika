@@ -1501,8 +1501,8 @@ Kemampuan mengenali gabungan dan irisan ini akan sangat penting pada materi beri
 
 ## Konsep Terkait
 
-- [[Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
-- [[Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
-- [[Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
-- [[Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
-- [[Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]

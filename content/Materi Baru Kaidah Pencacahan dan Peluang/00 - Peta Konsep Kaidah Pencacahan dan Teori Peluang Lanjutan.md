@@ -14,7 +14,7 @@ title:
 - Aturan penjumlahan
 - Aturan perkalian
 
-[[Kaidah Pencacahan dan Peluang/01 - Konsep Dasar Pencacahan]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/01 - Konsep Dasar Pencacahan]]
 
 
 ### 02. Faktorial
@@ -25,7 +25,7 @@ title:
 - Penyederhanaan bentuk faktorial
 - Hubungan faktorial dengan pencacahan
 
-[[Kaidah Pencacahan dan Peluang/02 - Faktorial]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/02 - Faktorial]]
 
 
 ### 03. Permutasi
@@ -45,7 +45,7 @@ $$
 {}_nP_r=\frac{n!}{(n-r)!}
 $$
 
-[[Kaidah Pencacahan dan Peluang/03 - Permutasi]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/03 - Permutasi]]
 
 
 ### 04. Kombinasi
@@ -65,7 +65,7 @@ Materi meliputi:
 - sifat-sifat kombinasi,
 - aplikasi kombinasi.
 
-[[Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/04 - Kombinasi]]
 
 
 ### 05. Membedakan Permutasi dan Kombinasi
@@ -87,7 +87,7 @@ Materi meliputi:
 - memilih rumus yang sesuai,
 - soal campuran permutasi dan kombinasi.
 
-[[Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/05 - Membedakan Permutasi dan Kombinasi]]
 
 ---
 
@@ -118,7 +118,7 @@ $$
 0\leq P(A)\leq1
 $$
 
-[[Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/06 - Konsep Dasar Peluang]]
 
 
 ### 07. Peluang Komplemen
@@ -138,7 +138,7 @@ Konsep komplemen sangat berguna untuk menyelesaikan soal seperti:
 - minimal satu,
 - paling sedikit satu.
 
-[[Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/07 - Peluang Komplemen]]
 
 
 ### 08. Peluang Kejadian Majemuk
@@ -160,7 +160,7 @@ P(A\cup B)
 P(A)+P(B)-P(A\cap B)
 $$
 
-[[Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/08 - Peluang Kejadian Majemuk]]
 
 
 ### 09. Peluang Bersyarat
@@ -181,7 +181,7 @@ $$
 P(B)\neq0
 $$
 
-[[Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/09 - Peluang Bersyarat]]
 
 
 ### 10. Kejadian Saling Bebas
@@ -199,7 +199,7 @@ Pada bagian ini juga dipelajari perbedaan antara:
 - kejadian saling bebas,
 - kejadian saling lepas.
 
-[[Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/10 - Kejadian Saling Bebas]]
 
 ---
 
@@ -234,7 +234,7 @@ Materi meliputi:
 - peluang penyusunan objek,
 - masalah kontekstual.
 
-[[Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/11 - Penerapan Kaidah Pencacahan dalam Peluang]]
 
 ### 12. Latihan Terpadu Kaidah Pencacahan dan Peluang
 
@@ -249,10 +249,10 @@ Soal disusun secara bertahap:
 
 Pada bagian ini, siswa perlu menentukan sendiri konsep yang paling tepat digunakan sebelum melakukan perhitungan.
 
-[[Kaidah Pencacahan dan Peluang/12 - Latihan Terpadu Kaidah Pencacahan dan Peluang]]
+[[Materi Baru Kaidah Pencacahan dan Peluang/12 - Latihan Terpadu Kaidah Pencacahan dan Peluang]]
 
 ---
 
 # Ringkasan
 
-- [[Kaidah Pencacahan dan Peluang/Ringkasan Kombinatorika dan Teori Peluang Lanjutan]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/Ringkasan Kombinatorika dan Teori Peluang Lanjutan]]
