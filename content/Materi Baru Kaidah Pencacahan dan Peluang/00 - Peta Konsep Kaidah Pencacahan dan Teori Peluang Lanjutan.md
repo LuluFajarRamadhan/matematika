@@ -1,6 +1,94 @@
 ---
 title:
 ---
+# Pengantar Kombinatorika dan Teori Peluang Lanjutan
+
+Dalam kehidupan sehari-hari, kita sering menghadapi dua pertanyaan yang berkaitan erat.
+
+1. **Ada berapa banyak kemungkinan yang dapat terjadi?**
+2. **Seberapa besar kemungkinan suatu kejadian akan terjadi?**
+
+Pertanyaan pertama dipelajari melalui **kaidah pencacahan atau kombinatorika**, sedangkan pertanyaan kedua dipelajari melalui **teori peluang**.
+
+Kaidah pencacahan membantu kita menentukan banyaknya kemungkinan tanpa harus menuliskan seluruh kemungkinan satu per satu. Konsep ini kemudian menjadi dasar untuk menghitung peluang pada situasi yang memiliki ruang sampel cukup besar.
+
+Sebagai contoh, ketika memilih 3 siswa dari 20 siswa, kita tentu dapat mencoba menuliskan seluruh kemungkinan kelompok yang terbentuk. Namun, cara tersebut tidak praktis. Dengan menggunakan kombinasi, banyaknya kemungkinan dapat dihitung secara langsung.
+
+Begitu juga dalam peluang. Untuk menentukan peluang terpilihnya kelompok dengan kriteria tertentu, kita perlu mengetahui:
+
+$$
+\text{banyak kemungkinan yang memenuhi kejadian}
+$$
+
+dan:
+
+$$
+\text{banyak seluruh kemungkinan yang dapat terjadi}
+$$
+
+Hubungan tersebut menjadi dasar dari rumus:
+
+$$
+P(A)=\frac{n(A)}{n(S)}
+$$
+
+Oleh karena itu, kaidah pencacahan dan teori peluang merupakan dua konsep yang saling berkaitan.
+
+---
+
+## Aplikasi Kaidah Pencacahan dan Peluang dalam Kehidupan
+
+### 1. Penyusunan Jadwal dan Pemilihan
+
+Kaidah pencacahan dapat digunakan untuk menentukan banyaknya cara dalam menyusun atau memilih sesuatu.
+
+Contohnya:
+
+- menentukan banyak susunan tempat duduk,
+- menyusun jadwal kegiatan,
+- memilih anggota suatu tim,
+- menentukan urutan peserta,
+- memilih beberapa orang dari suatu kelompok.
+
+Masalah seperti ini dapat diselesaikan menggunakan aturan perkalian, permutasi, atau kombinasi.
+
+### 2. Teknologi dan Keamanan Digital
+
+Konsep pencacahan digunakan untuk menghitung banyak kemungkinan kata sandi, kode keamanan, atau PIN.
+
+Misalnya, sebuah PIN terdiri atas 6 digit angka. Banyak kemungkinan PIN dapat dihitung menggunakan aturan perkalian.
+
+Semakin banyak kemungkinan yang tersedia, semakin sulit suatu kode ditebak dengan mencoba seluruh kemungkinan.
+
+### 3. Permainan dan Undian
+
+Teori peluang banyak digunakan dalam permainan yang melibatkan unsur acak.
+
+Contohnya:
+
+- pelemparan koin,
+- pelemparan dadu,
+- pengambilan kartu,
+- undian,
+- permainan papan.
+
+Peluang dapat digunakan untuk menentukan seberapa besar kemungkinan suatu hasil tertentu terjadi.
+
+### 4. Pengambilan Keputusan
+
+Peluang juga digunakan untuk memperkirakan risiko dan membuat keputusan berdasarkan kemungkinan suatu kejadian.
+
+Contohnya:
+
+- memperkirakan risiko kerugian,
+- menentukan kemungkinan keberhasilan suatu strategi,
+- menganalisis hasil survei,
+- memperkirakan peluang terjadinya suatu peristiwa.
+
+Dengan memahami peluang, suatu keputusan dapat dibuat berdasarkan perhitungan yang lebih terukur.
+
+---
+
 # Peta Konsep Kaidah Pencacahan dan Peluang
 
 ## Bagian 1: Kaidah Pencacahan
