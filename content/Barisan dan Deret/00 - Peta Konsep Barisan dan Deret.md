@@ -65,7 +65,7 @@ Melalui fenomena ini, kita diajarkan untuk berpikir taktis dalam memanfaatkan ru
 ## Aplikasi dan Konsep Lanjut
 
 - [[Barisan dan Deret/09 - Aplikasi Barisan dan Deret Pertumbuhan dan Peluruhan]]
-- [[Barisan dan Deret/10 - Aplikasi Barisan dan Deret pada Bunga Majemuk dan Anuitas]]
+- [[Barisan dan Deret/10 - Aplikasi Barisan dan Deret Bunga Majemuk dan Anuitas]]
 - [[Barisan dan Deret/11 - Notasi Sigma dan Induksi Matematika Sederhana]]
 
 ---
