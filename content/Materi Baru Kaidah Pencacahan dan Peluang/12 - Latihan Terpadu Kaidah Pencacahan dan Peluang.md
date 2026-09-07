@@ -1213,7 +1213,7 @@ $$
 
 ## Konsep Terkait
 
-- [[Materi Baru Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kaidah Pencacahan dan Teori Peluang Lanjutan]]
+- [[Materi Baru Kaidah Pencacahan dan Peluang/00 - Peta Konsep Kaidah Pencacahan dan Teori Peluang]]
 - [[Materi Baru Kaidah Pencacahan dan Peluang/01 - Konsep Dasar Pencacahan]]
 - [[Materi Baru Kaidah Pencacahan dan Peluang/02 - Faktorial]]
 - [[Materi Baru Kaidah Pencacahan dan Peluang/03 - Permutasi]]

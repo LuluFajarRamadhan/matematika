@@ -1,7 +1,7 @@
 ---
 title:
 ---
-# Pengantar Kombinatorika dan Teori Peluang Lanjutan
+# Pengantar Kombinatorika dan Teori Peluang
 
 Dalam kehidupan sehari-hari, kita sering menghadapi dua pertanyaan yang berkaitan erat.
 
