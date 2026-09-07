@@ -71,4 +71,4 @@ Sebuah pabrik tekstil membeli mesin produksi baru seharga Rp80.000.000. Karena f
 
 ## Konsep Terkait
 * [[Barisan dan Deret/05 - Barisan Geometri|05 - Barisan Geometri]]
-* [[Barisan dan Deret/10 - Aplikasi Barisan dan Deret Bunga Majemuk dan Anuitas]]
+* [[Barisan dan Deret/10 - Aplikasi Barisan dan Deret pada Bunga Majemuk dan Anuitas]]
